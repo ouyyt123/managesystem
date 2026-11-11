@@ -1,0 +1,15 @@
+{
+  "name": "research-material-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "科研项目材料管理系统 · 交互原型（Node.js 服务 + 原生前端 + 本地 OCR）",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.mjs",
+    "verify": "node tools/verify.mjs",
+    "screenshots": "node tools/screenshot.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

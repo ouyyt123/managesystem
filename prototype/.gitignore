@@ -1,0 +1,7 @@
+data/db.json
+data/db.json.tmp
+data/token.secret
+data/ocr-temp/
+uploads/*
+!uploads/.gitkeep
+node_modules/
