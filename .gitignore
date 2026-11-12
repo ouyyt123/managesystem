@@ -1,1 +1,5 @@
 data\
+prototype/data/db.json
+prototype/data/token.secret
+prototype/data/ocr-temp/
+prototype/uploads/
